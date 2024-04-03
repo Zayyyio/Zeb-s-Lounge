@@ -1,0 +1,182 @@
+id,isbn,penulis,tahun,judul,gambar,stok
+1,316012823,Kate Atkinson,2006,One Good Turn,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,64
+2,525425888,Nina LaCour,2014,Everything Leads to You,https://images.gr-assets.com/books/1389744233m/18667779.jpg,6
+3,515141666,Nora Roberts,2006,Dance of the Gods,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,60
+4,006117758X,Charles Bukowski,1982,Ham on Rye,https://images.gr-assets.com/books/1388195001m/38501.jpg,85
+5,805073663,Doug Stanton,2001,In Harm's Way: The Sinking of the U.S.S. Indianapolis and the Extraordinary Story of Its Survivors,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,24
+6,800759494,"Don Piper, Cecil Murphey",2004,90 Minutes in Heaven,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,54
+7,374104115,Jeff VanderMeer,2014,Acceptance,https://images.gr-assets.com/books/1403941598m/18077752.jpg,40
+8,439321603,"Newt Scamander, J.K. Rowling, Albus Dumbledore",2001,Fantastic Beasts and Where to Find Them,https://images.gr-assets.com/books/1303738520m/41899.jpg,123
+9,446563080,Seth Grahame-Smith,2010,Abraham Lincoln: Vampire Hunter,https://images.gr-assets.com/books/1291165397m/7108001.jpg,62
+10,61689424,Ellen Schreiber,2010,"Love Bites (Vampire Kisses, #7)",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,14
+11,1556520743,"Assata Shakur, Angela Y. Davis, Lennox S. Hinds",1987,Assata: An Autobiography,https://images.gr-assets.com/books/1328857268m/100322.jpg,20
+12,684833395,Joseph Heller,1961,Catch-22,https://images.gr-assets.com/books/1463157317m/168668.jpg,251
+13,553286390,"Margaret Weis, Tracy Hickman",1990,"Dragon Wing (The Death Gate Cycle, #1)",https://images.gr-assets.com/books/1403168128m/28481.jpg,37
+14,439895979,Libba Bray,2011,Beauty Queens,https://images.gr-assets.com/books/1289410187m/9464733.jpg,23
+15,785121447,"Peter David, Robin Furth, Jae Lee, Richard Isanove, Stephen King",2007,The Dark Tower: The Gunslinger Born,https://images.gr-assets.com/books/1489721554m/342445.jpg,20
+16,1590523172,Shaunti Feldhahn,2004,For Women Only: What You Need to Know about the Inner Lives of Men,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,19
+17,751532711,Robert T. Kiyosaki,1997,"Rich Dad , Poor Dad",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,185
+18,143036424,Craig Johnson,2004,The Cold Dish,https://images.gr-assets.com/books/1398028367m/109901.jpg,27
+19,1101990260,Fiona Barton,2016,The Widow,https://images.gr-assets.com/books/1449178687m/25734248.jpg,68
+20,316000973,Darren Shan,2002,"The Vampire Prince (Cirque Du Freak, #6)",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,66
+21,160096527X,G.K. Chesterton,1908,Orthodoxy,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,430
+22,385529376,Ben Mezrich,2009,"The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius and Betrayal",https://images.gr-assets.com/books/1320527444m/6326920.jpg,46
+23,345452003,"Anne Tyler, Jennifer Bassett",1985,The Accidental Tourist,https://images.gr-assets.com/books/1502220282m/60792.jpg,87
+24,1599908441,Trish Doller,2012,Something Like Normal,https://images.gr-assets.com/books/1336837143m/9403947.jpg,6
+25,62300547,J.D. Vance,2016,Hillbilly Elegy. A Memoir of a Family and Culture in Crisis,https://images.gr-assets.com/books/1463569814m/27161156.jpg,30
+26,1876175702,"Ernesto Che Guevara, Aleida Guevara March",1993,Diarios de motocicleta: notas de viaje por América Latina,https://images.gr-assets.com/books/1354902593m/172732.jpg,100
+27,60880120,Meg Cabot,2006,How to Be Popular,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,41
+28,61836923,Dennis Lehane,2010,Moonlight Mile ,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,54
+29,452285453,Tracy Chevalier,2003,The Lady and the Unicorn,https://images.gr-assets.com/books/1311281285m/89788.jpg,79
+30,517502917,"Arthur Conan Doyle, William S. Baring-Gould",1967,The Annotated Sherlock Holmes,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,5
+31,446618756,Carrie Vaughn,2008,Kitty and the Silver Bullet,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,18
+32,1841492051,Orson Scott Card,2005,Shadow of the Giant,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,34
+33,553208845,"Hermann Hesse, Hilda Rosner",1922,Siddhartha,https://images.gr-assets.com/books/1428715580m/52036.jpg,972
+34,1401200605,"Jeph Loeb, Jim Lee, Scott Williams",2002,Batman Hush #1,https://images.gr-assets.com/books/1460914534m/107017.jpg,24
+35,1423109600,Mo Willems,2008,The Pigeon Wants a Puppy!,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,10
+36,440421705,Carl Hiaasen,2002,Hoot,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,59
+37,876855966,Charles Bukowski,1983,Hot Water Music,https://images.gr-assets.com/books/1428126071m/50453.jpg,54
+38,1451617720,Jennifer Weiner,2010,Then Came You,https://images.gr-assets.com/books/1308787263m/9758764.jpg,27
+39,031621129X,"James Patterson, Maxine Paetro",2014,Unlucky 13,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,41
+40,446674575,James Redfield,1996,The Tenth Insight ,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,80
+41,1595143203,Richelle Mead,2013,The Fiery Heart,https://images.gr-assets.com/books/1383243238m/9833184.jpg,25
+42,446359203,Dan Simmons,1989,Carrion Comfort,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,38
+43,7120710,Agatha Christie,1940,Sad Cypress,https://images.gr-assets.com/books/1396229541m/433035.jpg,174
+44,679774386,"Boris Pasternak, Max Hayward, Manya Harari, John Bayley",1957,Доктор Живаго,https://images.gr-assets.com/books/1385508725m/130440.jpg,330
+45,812520475,Greg Bear,1984,Eon,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,55
+46,385737947,James Dashner,2009,The Maze Runner,https://images.gr-assets.com/books/1375596592m/6186357.jpg,147
+47,152026320,"Audrey Wood, Don    Wood",1984,The Napping House,https://images.gr-assets.com/books/1410229873m/815234.jpg,36
+48,041330860X,Jean Anouilh,1944,Antigone,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,35
+49,399158820,J.D. Robb,2013,Calculated in Death,https://images.gr-assets.com/books/1346079575m/15806231.jpg,33
+50,1559362316,Tony Kushner,1993,Angels in America:  A Gay Fantasia on National Themes,https://images.gr-assets.com/books/1170797663m/72003.jpg,14
+51,1423168232,Jennifer Lynn Barnes,2013,The Naturals,https://images.gr-assets.com/books/1374862751m/13597723.jpg,19
+52,037571457X,"Marjane Satrapi, Mattias Ripa",2000,Persepolis,https://images.gr-assets.com/books/1425871473m/9516.jpg,39
+53,312274920,Tony Hawks,1997,Round Ireland with a Fridge,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,20
+54,006440630X,Karen Cushman,1995,The Midwife's Apprentice,https://images.gr-assets.com/books/1305983479m/15595.jpg,33
+55,62351427,"Joseph Fink, Jeffrey Cranor",2015,Welcome to Night Vale,https://images.gr-assets.com/books/1447774088m/23129410.jpg,37
+56,385523386,Piper Kerman,2010,Orange Is the New Black: My Year in a Women's Prison,https://images.gr-assets.com/books/1320520714m/6314763.jpg,69
+57,765304961,Orson Scott Card,2008,"Ender in Exile (The Ender Quintet, #2)",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,31
+58,675093244,William Faulkner,1930,A Rose for Emily,https://images.gr-assets.com/books/1487468453m/426025.jpg,20
+59,679750150,"Yukio Mishima, John Nathan",1963,午後の曳航 [Gogo no eikō],https://images.gr-assets.com/books/1327629352m/162332.jpg,70
+60,1554681723,Garth Stein,2006,The Art of Racing in the Rain,https://images.gr-assets.com/books/1377206302m/3153910.jpg,90
+61,312367481,"Arlene Mosel, Blair Lent",1968,Tikki Tikki Tembo,https://images.gr-assets.com/books/1317064300m/551876.jpg,40
+62,307270742,J. Courtney Sullivan,2009,Commencement,https://images.gr-assets.com/books/1392259807m/6080420.jpg,14
+63,399158022,Patricia Cornwell,2011,Red Mist,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,48
+64,000735049X,Cecelia Ahern,2014,How to Fall in Love,https://images.gr-assets.com/books/1373279911m/18161265.jpg,48
+65,140009769X,"Nando Parrado, Vince Rause",2006,Miracle in the Andes: 72 Days on the Mountain and My Long Trek Home,https://images.gr-assets.com/books/1320544978m/454236.jpg,49
+66,439771277,Karen Hesse,1997,Out of the Dust,https://images.gr-assets.com/books/1328867076m/25346.jpg,33
+67,143914799X,Jennifer Estep,2010,Web of Lies,https://images.gr-assets.com/books/1262902266m/6933152.jpg,14
+68,689823959,Livia E. Bitton-Jackson,1997,I Have Lived A Thousand Years: Growing Up In The Holocaust,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,16
+69,1606840576,Bree Despain,2009,The Dark Divine,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,35
+70,688114490,Kevin Henkes,1993,Owen,https://images.gr-assets.com/books/1415585883m/635083.jpg,21
+71,4103534222,"Haruki Murakami, 村上 春樹",2009,1Q84 Book 1 [Ichi-kyū-hachi-yon],https://images.gr-assets.com/books/1329955413m/6443834.jpg,76
+72,316067598,"Marcus Luttrell, Patrick Robinson",2006,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,https://images.gr-assets.com/books/1344265535m/711901.jpg,57
+73,1401223176,"Jeph Loeb, Jim Lee, Scott Williams, Alex Sinclair, Richard Starkings",2002,Absolute Batman Hush,https://images.gr-assets.com/books/1342295000m/6375845.jpg,25
+74,1579126251,Agatha Christie,1930,Murder at the Vicarage,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,216
+75,425227723,Laurell K. Hamilton,2009,Skin Trade,https://images.gr-assets.com/books/1310494564m/5215879.jpg,31
+76,671796666,"Sam Smith, Doug Grud",1992,The Jordan Rules,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,6
+77,765328666,Kendare Blake,2012,Girl of Nightmares,https://images.gr-assets.com/books/1344463840m/12507214.jpg,34
+78,380727501,Bill Bryson,1995,Notes from a Small Island,https://images.gr-assets.com/books/1479653223m/28.jpg,63
+79,312577206,Kristin Hannah,2012,Home Front,https://images.gr-assets.com/books/1344319152m/12022079.jpg,27
+80,1590170571,"Adolfo Bioy Casares, Suzanne Jill Levine, Jorge Luis Borges, Ruth L.C. Simms, Norah Borges de Torre",1940,La invención de Morel,https://images.gr-assets.com/books/1327960951m/94486.jpg,86
+81,380709244,"Beverly Cleary, Louis Darling, Tracy Dockray",1965,The Mouse and the Motorcycle,https://images.gr-assets.com/books/1348990967m/232109.jpg,63
+82,054705484X,Philip Roth,2008,Indignation,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,93
+83,393072231,Michael   Lewis,2009,The Big Short: Inside the Doomsday Machine,https://images.gr-assets.com/books/1453470736m/6463967.jpg,57
+84,446533424,Nelson DeMille,2008,The Gate House,https://images.gr-assets.com/books/1397190673m/3216451.jpg,47
+85,446552445,Chelsea Handler,2010,Chelsea Chelsea Bang Bang,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,15
+86,930289226,"Alan Moore, Stephen R. Bissette, John Totleben, Rick Veitch, Ramsey Campbell",1983,"The Saga of the Swamp Thing, Vol 20 - 27",https://images.gr-assets.com/books/1393967527m/102324.jpg,22
+87,014303541X,Jasper Fforde,2004,Something Rotten,https://images.gr-assets.com/books/1479773726m/26999.jpg,47
+88,1501101536,Katy Evans,2015,Manwhore,https://images.gr-assets.com/books/1421552037m/22892122.jpg,10
+89,679785892,"Hunter S. Thompson, Ralph Steadman",1971,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,https://images.gr-assets.com/books/1394204569m/7745.jpg,98
+90,439568404,R.L. Stine,1993,Night of the Living Dummy,https://images.gr-assets.com/books/1328867793m/125564.jpg,69
+91,671023187,Vince Flynn,1997,Term Limits,https://images.gr-assets.com/books/1311847654m/85392.jpg,42
+92,312424094,Marilynne Robinson,1980,Housekeeping,https://images.gr-assets.com/books/1327882949m/11741.jpg,58
+93,62026518,Rae Carson,2012,The Crown of Embers,https://images.gr-assets.com/books/1335241091m/10816908.jpg,18
+94,1476776881,Taylor Jenkins Reid,2015,Maybe In Another Life,https://images.gr-assets.com/books/1424970519m/23492661.jpg,18
+95,345456327,David Eddings,1982,The Belgariad: Part One - Pawn of Prophecy / Queen of Sorcery / Magician's Gambit,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,13
+96,1401360203,"Sergei Lukyanenko, Andrew Bromfield",2000,Дневной дозор,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,59
+97,778322955,Debbie Macomber,2005,A Good Yarn,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,40
+98,316070521,Catherine Hardwicke,2009,Twilight Director's Notebook,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,14
+99,316084220,Kody Keplinger,2012,A Midsummer's Nightmare,https://images.gr-assets.com/books/1327469139m/12813860.jpg,11
+100,312330340,"Rusty Young, Thomas McFadden",2003,"Marching Powder: A True Story of Friendship, Cocaine, and South America's Strangest Jail",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,25
+101,1580493882,"Sophocles, J.E. Thomas",0,Ἀντιγόνη,https://images.gr-assets.com/books/1486701308m/7728.jpg,423
+102,60724277,Thomas A. Harris,1967,I'm OK-You're OK,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,67
+103,785132619,"Mark Millar, John Romita Jr., Rob Liefeld",2010,Kick-Ass,https://images.gr-assets.com/books/1343964935m/3918010.jpg,30
+104,385608020,Kate Atkinson,2010,"Started Early, Took My Dog",https://images.gr-assets.com/books/1273446011m/7307795.jpg,16
+105,345505336,Jamie Ford,2009,Hotel on the Corner of Bitter and Sweet,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,69
+106,786837462,Mo Willems,2006,Don't Let the Pigeon Stay Up Late!,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,16
+107,609807900,Megan McCafferty,2001,"Sloppy Firsts (Jessica Darling, #1)",https://images.gr-assets.com/books/1320531275m/138202.jpg,19
+108,812967259,Arthur Conan Doyle,1912,The Lost World ,https://images.gr-assets.com/books/1320504012m/10155.jpg,727
+109,1416527265,Hester Browne,2005,The Little Lady Agency,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,21
+110,679732764,Ralph Ellison,1952,Invisible Man,https://images.gr-assets.com/books/1352854247m/16981.jpg,109
+111,014043478X,"Elizabeth Gaskell, Pam Morris",1866,Wives and Daughters,https://images.gr-assets.com/books/1348267609m/383206.jpg,253
+112,425174409,Helen Hooven Santmyer,1982,"""...And Ladies of the Club""",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,13
+113,1573223565,Nick Hornby,2003,31 Songs,https://images.gr-assets.com/books/1417984618m/4261.jpg,42
+114,553266306,Frederick Forsyth,1971,The Day of the Jackal,https://images.gr-assets.com/books/1405364996m/540020.jpg,170
+115,446613363,"James Patterson, Maxine Paetro",2005,"4th of July (Women's Murder Club, #4)",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,76
+116,375829873,Robert Cormier,1974,The Chocolate War,https://images.gr-assets.com/books/1333120554m/17162.jpg,66
+117,340893613,Catherine Fisher,2000,Sapphique,https://images.gr-assets.com/books/1327885488m/4499214.jpg,36
+118,394805755,"Jean de Brunhoff, Merle S. Haas",1931,"Histoire de Babar, le petit éléphant",https://images.gr-assets.com/books/1353333493m/356321.jpg,43
+119,590442872,Norman Bridwell,1966,Clifford's Halloween (Clifford),https://images.gr-assets.com/books/1328835774m/615233.jpg,18
+120,871401525,E.E. Cummings,1991,E.E. Cummings: Complete Poems 1904-1962,https://images.gr-assets.com/books/1355093052m/26596.jpg,6
+121,439783607,"James Lincoln Collier, Christopher Collier",1974,My Brother Sam Is Dead,https://images.gr-assets.com/books/1328867125m/122756.jpg,26
+122,330247042,William Goldman,1974,Marathon Man,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,28
+123,743468414,Lois McMaster Bujold,1991,,https://images.gr-assets.com/books/1397151220m/61905.jpg,50
+124,1442449616,Rachel Renée Russell,2012,Tales From a Not-So-Smart Miss Know-it-all,https://images.gr-assets.com/books/1370064645m/13547289.jpg,41
+125,385732074,E. Lockhart,2005,"The Boyfriend List: 15 Guys, 11 Shrink Appointments, 4 Ceramic Frogs and Me, Ruby Oliver (Ruby Oliver, #1)",https://images.gr-assets.com/books/1342343845m/301022.jpg,35
+126,64441555,"Peggy Parish, Fritz Siebel",1963,Amelia Bedelia,https://images.gr-assets.com/books/1353400157m/774001.jpg,36
+127,1573225517,Nick Hornby,1995,High Fidelity,https://images.gr-assets.com/books/1327928082m/285092.jpg,136
+128,62280562,Alissa Nutting,2013,Tampa,https://images.gr-assets.com/books/1393784199m/17225311.jpg,5
+129,1607062542,"Robert Kirkman, Charlie Adlard",2010,The Walking Dead Volume 12,https://images.gr-assets.com/books/1279748761m/7469664.jpg,24
+130,843396867X,Roberto Bolaño,2004,2666,https://images.gr-assets.com/books/1412644327m/63032.jpg,84
+131,765354950,"Douglas Preston, Lincoln Child",1997,Reliquary,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,71
+132,1414318634,Francine Rivers,2010,"Her Mother's Hope (Marta's Legacy, #1)",https://images.gr-assets.com/books/1406510447m/6926176.jpg,25
+133,345498321,Chetan Bhagat,2005,One Night @ The Call Center,https://images.gr-assets.com/books/1320500924m/105578.jpg,25
+134,9793062797,Andrea Hirata,2005,Laskar Pelangi,https://images.gr-assets.com/books/1489732961m/1362193.jpg,44
+135,553146963,Rita Mae Brown,1973,Rubyfruit Jungle,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,35
+136,140436065,"Oscar Wilde, Richard Allen Cave",1954,,https://images.gr-assets.com/books/1260426623m/92308.jpg,77
+137,067155302X,Tess Gerritsen,1996,Harvest ,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,65
+138,486431681,"Knut Hamsun, George Egerton",1890,Sult,https://images.gr-assets.com/books/1456243307m/32585.jpg,53
+139,1400097029,John Banville,2005,The Sea,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,81
+140,1411415930,"Ian Edginton, Oscar Wilde, I.N.J. Culbard",2009,The Picture of Dorian Gray: A Graphic Novel ,https://images.gr-assets.com/books/1328766635m/3052106.jpg,6
+141,743457919,John le Carré,1977,The Honourable Schoolboy,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,114
+142,140186301,"Kingsley Amis, David Lodge",1954,Lucky Jim,https://images.gr-assets.com/books/1373459729m/395182.jpg,76
+143,193636574X,Dave Eggers,2012,A Hologram for the King,https://images.gr-assets.com/books/1337179987m/13722902.jpg,62
+144,765377063,"Liu Cixin, Ken Liu",2007,三体,https://images.gr-assets.com/books/1415428227m/20518872.jpg,42
+145,7119550,George R.R. Martin,2000,A Storm of Swords: Part 2 Blood and Gold,https://images.gr-assets.com/books/1354567206m/147915.jpg,49
+146,60889578,"Steven D. Levitt, Stephen J. Dubner",2009,"SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance",https://images.gr-assets.com/books/1308117804m/6402364.jpg,77
+147,743477553,William Shakespeare,1603,"The Tragedy of Othello, The Moor of Venice",https://images.gr-assets.com/books/1459795105m/12996.jpg,1053
+148,140445501,"François Rabelais, M.A. Screech",1532,La vie de Gargantua et de Pantagruel,https://images.gr-assets.com/books/1336964698m/18266.jpg,283
+149,143039962,"Pablo Neruda, W.S. Merwin, Cristina García",1924,Veinte poemas de amor y una canción desesperada,https://images.gr-assets.com/books/1447622711m/5932.jpg,179
+150,684803356,Ernest Hemingway,1940,For Whom the Bell Tolls,https://images.gr-assets.com/books/1492591524m/46170.jpg,371
+151,451236718,Rachel Caine,2012,Black Dawn,https://images.gr-assets.com/books/1318112062m/9526658.jpg,18
+152,078572902X,W.P. Kinsella,1982,Shoeless Joe,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,34
+153,670018864,Tana French,2008,The Likeness,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,56
+154,399157565,Patricia Cornwell,2012,The Bone Bed,https://images.gr-assets.com/books/1338860340m/13708346.jpg,45
+155,192836382,"Alexandre Dumas fils, David Coward",1848,La Dame aux camélias,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,626
+156,1591842247,Geoff Colvin,2008,Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,33
+157,385265700,Jane Hamilton,1988,The Book of Ruth,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,18
+158,451528891,"Thomas Paine, Sidney Hook, Jack Fruchtman Jr.",1776,,https://images.gr-assets.com/books/1309203355m/99955.jpg,16
+159,2314576,Agatha Christie,1933,Lord Edgware Dies,https://images.gr-assets.com/books/1375949065m/215492.jpg,192
+160,758216424,Richelle Mead,2008,Succubus On Top,https://images.gr-assets.com/books/1315977158m/1316617.jpg,36
+161,1594745765,Ben H. Winters,2012,The Last Policeman,https://images.gr-assets.com/books/1344370646m/13330370.jpg,31
+162,7120699,Agatha Christie,1938,Hercule Poirot's Christmas,https://images.gr-assets.com/books/1308808460m/16349.jpg,188
+163,375990690,Lauren Kate,2013,Teardrop,https://images.gr-assets.com/books/1360596375m/16070143.jpg,61
+164,64440028,Syd Hoff,1958,Danny and the Dinosaur,https://images.gr-assets.com/books/1406512465m/858037.jpg,37
+165,312655452,Louise Penny,2011,A Trick of the Light,https://images.gr-assets.com/books/1327900478m/10680329.jpg,32
+166,380721643,Nevada Barr,1993,Track of the Cat,https://images.gr-assets.com/books/1326365792m/76706.jpg,19
+167,1570820872,Don Ferguson,1994,Disney's the Lion King (Disney Classic Series),https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,7
+168,006078721X,"Isabel Allende, Margaret Sayers Peden",2005,El Zorro,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,66
+169,067978148X,Bret Easton Ellis,1987,The Rules of Attraction,https://images.gr-assets.com/books/1468426907m/9912.jpg,68
+170,345453751,Terry Brooks,1979,The Sword of Shannara Trilogy,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,19
+171,1857988361,John Brunner,1968,Stand on Zanzibar,https://images.gr-assets.com/books/1360613921m/41069.jpg,55
+172,039487336X,"Stan Berenstain, Jan Berenstain",1987,,https://images.gr-assets.com/books/1344369313m/1129315.jpg,14
+173,1416509631,Ursula K. Le Guin,1990,Tehanu,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,77
+174,316219266,Brad Stone,2013,,https://images.gr-assets.com/books/1365394361m/17660462.jpg,54
+175,441015832,Ilona Andrews,2008,Magic Burns,https://images.gr-assets.com/books/1311280284m/1811543.jpg,33
+176,425226921,Nalini Singh,2009,,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,38
+177,751504386,Stephen King,1985,Skeleton Crew,https://images.gr-assets.com/books/1271861632m/13440.jpg,2
+178,618260307,J.R.R. Tolkien,1937,The Hobbit or There and Back Again,https://images.gr-assets.com/books/1372847500m/5907.jpg,969
+179,1596911050,Douglas Coupland,2006,JPod,https://images.gr-assets.com/books/1316729451m/221059.jpg,29
+180,393240231,Caitlin Doughty,2014,Smoke Gets in Your Eyes: And Other Lessons from the Crematory,https://images.gr-assets.com/books/1416181987m/20663702.jpg,23
+181,1416927832,"Marguerite Henry, Wesley Dennis",1947,Misty of Chincoteague,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,61
